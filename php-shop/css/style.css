@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+html {
+    font-size: 62.5%;
+}
+
+*,*::before,*::after {
+    box-sizing: border-box
+}
+
+.heading {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+.form input[type=text] {
+  margin-bottom: 30px;
+}
+
+.form input[type=password] {
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 17px;
+}
+
+.heading {
+  text-align: center;
+}
